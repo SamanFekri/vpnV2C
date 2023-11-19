@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+
+# macOS
+.DS_Store
+
+config.data.json
